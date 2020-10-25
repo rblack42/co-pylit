@@ -1,0 +1,38 @@
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+hr {
+  height: 2px;
+  background-color:#555;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+figure {
+  text-align: center;
+  margin: 10px auto;
+}
+
+figcaption {
+  text-align: center;
+}
+
+table .course-data {
+  border: 1px solid #eceeef;
+  padding: 0.5em;
+}
+
+
